@@ -85,7 +85,7 @@
 
 ### DevOps & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,neovim,vscode,qt,nginx,npm,yarn,neovim,figma,arduino,stackoverflow,cloudflare,cmake,svg&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,neovim,vscode,qt,nginx,npm,yarn,figma,arduino,stackoverflow,cloudflare,cmake,svg&theme=dark&perline=6" />
 </a>
 <br/>
 <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC.svg?style=flat-square&logo=canva&logoColor=white" />
