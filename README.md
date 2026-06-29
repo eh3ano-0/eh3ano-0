@@ -85,7 +85,7 @@
 
 ### DevOps & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,arch,postman,vim,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,vscode,qt,nginx,npm,neovim,figma,arduino&theme=dark&perline=6" />
 </a>
 
 ### AI & Computer Vision
