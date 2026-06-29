@@ -34,8 +34,8 @@
 ║  ~/eh3ano-0  ▶  whoami                                           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  name        →  eh3ano-0                                         ║
-║  location    →  Iran 🇮🇷                                          ║
+║  name        →  ehsan khodadust                                  ║
+║  location    →  Iran 🇮🇷                                           ║
 ║  field       →  Computer Engineering (Software + AI)             ║
 ║  os          →  Arch Linux  [yes, I use btw]  🐧                 ║
 ║  mbti        →  ISTP — The Craftsman 🔧                          ║
@@ -75,7 +75,7 @@
 
 ### Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue,vite,md,lua,ts&theme=dark&perline=6" />
 </a>
 
 ### Databases
@@ -85,7 +85,7 @@
 
 ### DevOps & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,vscode,qt,nginx,npm,neovim,figma,arduino&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,vscode,qt,nginx,npm,neovim,figma,arduino,stackoverflow&theme=dark&perline=6" />
 </a>
 
 ### AI & Computer Vision
