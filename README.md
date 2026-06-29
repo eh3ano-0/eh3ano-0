@@ -88,6 +88,10 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,neovim,vscode,qt,nginx,npm,yarn,figma,arduino,stackoverflow,cloudflare,cmake,svg&theme=dark&perline=6" />
 </a>
 <br/>
+<img src="https://img.shields.io/badge/Kitty-3B3B3B?style=flat-square&logo=kitty&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+&nbsp;
 <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC.svg?style=flat-square&logo=canva&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Gimp-5C5543?style=flat-square&logo=gimp&logoColor=white" />
@@ -97,8 +101,6 @@
 <img src="https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B" />
 &nbsp;
 <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
 
 
 ### AI & Computer Vision
