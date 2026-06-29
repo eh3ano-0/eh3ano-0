@@ -1,111 +1,109 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There!%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=سلام!%20خوش%20اومدی%20به%20پروفایلم%20%F0%9F%87%AE%F0%9F%87%B7&descAlignY=62&descSize=18" width="100%"/>
+<!-- ═══════════════════════════════════════════════ -->
+<!--                   HEADER WAVE                   -->
+<!-- ═══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=230&section=header&text=eh3ano-0&fontSize=72&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=سلام!%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20Computer%20Engineer%20%7C%20Arch%20Linux%20Believer%20%F0%9F%90%A7&descAlignY=60&descSize=17&descColor=8b949e" width="100%"/>
 
-<!-- TYPING SVG -->
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/eh3ano-0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Computer+Engineer+%7C+AI+Enthusiast;Backend+Developer+%7C+Linux+Lover;Problem+Solver+%7C+ISTP+%F0%9F%94%A7;%22Less+talk%2C+more+code.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Computer+Engineer+%7C+AI+Enthusiast+%F0%9F%A4%96;Backend+Dev+%7C+Flask+%2F+Django+%2F+Laravel;Linux+Power+User+%7C+Arch+btw+%F0%9F%90%A7;ISTP+%E2%80%94+I+build+first%2C+talk+later+%F0%9F%94%A7;Less+talk.+More+code.+Ship+it.+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
-<br/>
 
-<!-- VISITOR COUNTER + PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=eh3ano-0&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="visitor badge"/>
+<!-- BADGES ROW -->
+<img src="https://komarev.com/ghpvc/?username=eh3ano-0&style=for-the-badge&color=0e75b6&label=VISITORS" alt="visitors"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/eh3ano-0?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=Followers" alt="followers"/>
+<img src="https://img.shields.io/github/followers/eh3ano-0?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MBTI-ISTP-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAyLjA1djIuMDJjMy45NS41MSA3IDMuODUgNyA3Ljkzcy0zLjA1IDcuNDItNyA3LjkzdjIuMDJjNS4wNS0uNTIgOS00LjcxIDktOS45NXMtMy45NS05LjQzLTktOS45NXpNMTEgMi4wNUMyIDIuNTcgMiA3LjkzIDIgMTJzMCA5LjQzIDkgOS45NVYxOS45M0M2LjA1IDE5LjQyIDQgMTYuMDggNCAxMnMyLjA1LTcuNDIgNy03Ljkzdi0yLjAyeiIvPjwvc3ZnPg=="/>
+&nbsp;
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-```python
-class Engineer:
-    def __init__(self):
-        self.name        = "eh3ano-0"
-        self.nationality = "Iranian 🇮🇷"
-        self.field       = "Computer Engineering (Software + AI)"
-        self.mbti        = "ISTP — The Craftsman 🔧"
-        self.os          = "Arch Linux, btw 🐧"
-        self.languages   = ["Python", "C++", "PHP"]
-        self.interests   = ["Linux", "Gaming 🎮", "Networking", "AI", "Open Source"]
-        self.english     = "Intermediate (B1–B2)"
-
-    def current_focus(self):
-        return [
-            "Building scalable backends with Django & Laravel",
-            "Exploring Computer Vision & AI applications",
-            "Mastering Docker & Linux internals",
-            "Contributing to open-source projects",
-        ]
-
-    def motto(self):
-        return "Keep it simple. Keep it Arch. Ship it. 🚀"
-
-me = Engineer()
-print(me.motto())
-```
-
----
-
-## 🛠️ Tech Stack & Skills
+## ⚡ About Me — Terminal Style
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ~/eh3ano-0  ▶  whoami                                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  name        →  eh3ano-0                                         ║
+║  location    →  Iran 🇮🇷                                          ║
+║  field       →  Computer Engineering (Software + AI)             ║
+║  os          →  Arch Linux  [yes, I use btw]  🐧                 ║
+║  mbti        →  ISTP — The Craftsman 🔧                          ║
+║  interests   →  Linux · Gaming · Networking · AI · Open Source   ║
+║  english     →  Intermediate (B1–B2)                             ║
+║                                                                  ║
+║  ~/eh3ano-0  ▶  cat current_goals.txt                            ║
+║                                                                  ║
+║  ▸  Shipping scalable backends with Django & Laravel             ║
+║  ▸  Deep-diving Computer Vision & AI applications                ║
+║  ▸  Mastering Docker internals & Linux wizardry                  ║
+║  ▸  Exploring the world of Computer Networking                   ║
+║                                                                  ║
+║  ~/eh3ano-0  ▶  echo $MOTTO                                      ║
+║  "Keep it simple. Keep it Arch. Ship it." 🚀                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-### ⚙️ Backend Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
+</div>
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+---
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack
 
-### 🐳 Infrastructure & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
+<div align="center">
 
-### 🤖 AI & Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,php&theme=dark&perline=6" />
+</a>
 
-### 🌐 Networking
-<p>
-  <img src="https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
+### Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel&theme=dark&perline=6" />
+</a>
+
+### Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark&perline=6" />
+</a>
+
+### Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=6" />
+</a>
+
+### DevOps & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,arch&theme=dark&perline=6" />
+</a>
+
+### AI & Computer Vision
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn&theme=dark&perline=6" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=eh3ano-0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 
 </div>
 
@@ -118,15 +116,19 @@ print(me.motto())
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=eh3ano-0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=eh3ano-0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&card_width=420" height="195"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eh3ano-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eh3ano-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="195"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eh3ano-0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="600"/>
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eh3ano-0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=760" width="760"/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eh3ano-0&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=1f6feb&point=58A6FF&bg_color=0d1117" width="100%"/>
 
 </div>
 
@@ -137,12 +139,14 @@ print(me.motto())
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake.svg"/>
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake.svg" width="100%"/>
 </picture>
 
 </div>
+
+> 💡 **Snake setup:** Add `.github/workflows/snake.yml` with [Platane/snk](https://github.com/Platane/snk) — runs on a schedule and generates the SVG automatically.
 
 ---
 
@@ -152,31 +156,37 @@ print(me.motto())
 
 <table>
   <tr>
-    <td align="center" width="250">
-      <h3>🐧 Linux Life</h3>
-      <p>Arch Linux is my daily driver.<br/>I install it from scratch — every time — just for fun.</p>
+    <td align="center" width="220">
+      <img src="https://skillicons.dev/icons?i=arch&theme=dark" width="40"/><br/>
+      <strong>🐧 Linux Life</strong><br/>
+      <sub>Arch Linux daily driver. I install from scratch — every time — just for fun.</sub>
     </td>
-    <td align="center" width="250">
-      <h3>🎮 Gaming Mode</h3>
-      <p>When I'm not coding, I'm probably in a game. Strategy, FPS, or RPG — anything that requires thinking.</p>
+    <td align="center" width="220">
+      <img src="https://skillicons.dev/icons?i=unity&theme=dark" width="40"/><br/>
+      <strong>🎮 Gaming Mode</strong><br/>
+      <sub>When I'm not coding I'm in a game. Strategy, FPS, RPG — anything that requires thinking.</sub>
     </td>
-    <td align="center" width="250">
-      <h3>🤖 AI Projects</h3>
-      <p>Built a Computer Vision project I'm genuinely proud of. AI is where I see my future going deeper.</p>
+    <td align="center" width="220">
+      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="40"/><br/>
+      <strong>🤖 AI Projects</strong><br/>
+      <sub>Built a Computer Vision project I'm genuinely proud of. AI is where I'm going deeper.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="250">
-      <h3>🔧 ISTP Energy</h3>
-      <p>I don't talk about things I'll build — I build them, then maybe mention it.</p>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🔧-ISTP-blueviolet?style=flat-square" /><br/>
+      <strong>🔧 ISTP Energy</strong><br/>
+      <sub>I don't talk about what I'll build — I build it, then maybe mention it.</sub>
     </td>
-    <td align="center" width="250">
-      <h3>🌐 Networking Nerd</h3>
-      <p>Packets, protocols, and everything in between. Wireshark is kind of relaxing, honestly.</p>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/🌐-Networking-0078D7?style=flat-square&logo=cisco" /><br/>
+      <strong>🌐 Networking Nerd</strong><br/>
+      <sub>Packets, protocols, and everything between. Wireshark is relaxing, honestly.</sub>
     </td>
-    <td align="center" width="250">
-      <h3>📦 Docker Fan</h3>
-      <p>"Works on my machine" is not in my vocabulary. Containerize everything.</p>
+    <td align="center" width="220">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"/><br/>
+      <strong>📦 Docker Fan</strong><br/>
+      <sub>"Works on my machine" is not in my vocabulary. Containerize everything.</sub>
     </td>
   </tr>
 </table>
@@ -188,6 +198,10 @@ print(me.motto())
 ## 💬 Personal Motto
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
 
 > *"The quieter you become, the more you are able to hear — and the more code you ship."*
 >
@@ -202,15 +216,15 @@ print(me.motto())
 <div align="center">
 
 <a href="mailto:ehkhodadust@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://t.me/eh3ano_0">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/eh3ano-0">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -219,8 +233,8 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>⚡ Built with passion from Iran 🇮🇷 | ISTP • Arch Linux • Coffee → Code</sub>
+<sub>⚡ Built with passion from Iran 🇮🇷 &nbsp;|&nbsp; ISTP &nbsp;•&nbsp; Arch Linux &nbsp;•&nbsp; Coffee → Code</sub>
 
 </div>
