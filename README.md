@@ -90,9 +90,12 @@
 
 ### AI & Computer Vision
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,pytorch,pandas,numpy&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,pytorch&theme=dark&perline=6" />
 </a>
-
+&nbsp;
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 </div>
 
 ---
