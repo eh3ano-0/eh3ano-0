@@ -9,6 +9,7 @@
 </a>
 
 <br/>
+<br/>
 
 <!-- VISITOR COUNTER + PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=eh3ano-0&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="visitor badge"/>
@@ -140,8 +141,6 @@ print(me.motto())
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake.svg"/>
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake.svg" width="100%"/>
 </picture>
-
-> 💡 **To enable the snake animation:** Go to your profile repo → Actions tab → Create a workflow at `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk). It auto-generates the SVG on a schedule.
 
 </div>
 
