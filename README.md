@@ -136,9 +136,9 @@ print(me.motto())
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/output/github-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/eh3ano-0/eh3ano-0/main/snake/github-snake.svg" width="100%"/>
 </picture>
 
 > 💡 **To enable the snake animation:** Go to your profile repo → Actions tab → Create a workflow at `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk). It auto-generates the SVG on a schedule.
