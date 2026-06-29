@@ -97,6 +97,8 @@
 <img src="https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B" />
 &nbsp;
 <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
 
 
 ### AI & Computer Vision
