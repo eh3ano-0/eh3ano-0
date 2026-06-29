@@ -70,22 +70,22 @@
 
 ### Backend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,flask,laravel,wordpress&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,laravel,symfony,wordpress&theme=dark&perline=6" />
 </a>
 
 ### Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue,vite,md,lua,ts&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,tailwind,bootstrap,vue,vite,md,lua,ts&theme=dark&perline=6" />
 </a>
 
 ### Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark&perline=6" />
 </a>
 
 ### DevOps & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,vscode,qt,nginx,npm,neovim,figma,arduino,stackoverflow&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,neovim,vscode,qt,nginx,npm,yarn,neovim,figma,arduino,stackoverflow,cloudflare,cmake,svg&theme=dark&perline=6" />
 </a>
 <br/>
 <img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC.svg?style=flat-square&logo=canva&logoColor=white" />
