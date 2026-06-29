@@ -146,7 +146,6 @@
 
 </div>
 
-> 💡 **Snake setup:** Add `.github/workflows/snake.yml` with [Platane/snk](https://github.com/Platane/snk) — runs on a schedule and generates the SVG automatically.
 
 ---
 
