@@ -112,6 +112,24 @@
 &nbsp;
 <img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white" />
 
+### My AI Stack
+
+<div align="center">
+
+<img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+&nbsp;
+<img src="https://custom-icon-badges.demolab.com/badge/DeepSeek-4D6BFF?style=flat-square&logo=deepseek&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+&nbsp;
+<img src="https://img.shields.io/badge/v0-000000?style=flat-square&logo=v0&logoColor=white" />
+
+</div>
+
+
+
 </div>
 
 ---
