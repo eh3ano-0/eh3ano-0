@@ -90,7 +90,7 @@
 
 ### AI & Computer Vision
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,numpy&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,pandas,pytorch,numpy&theme=dark&perline=6" />
 </a>
 
 </div>
