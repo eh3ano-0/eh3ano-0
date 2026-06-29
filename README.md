@@ -107,10 +107,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eh3ano-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eh3ano-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="195"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eh3ano-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="250"/>
     </td>
   </tr>
 </table>
