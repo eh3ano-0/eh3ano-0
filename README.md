@@ -161,12 +161,12 @@
   </tr>
   <tr>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/🔧-ISTP-blueviolet?style=flat-square" /><br/>
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40"/>
       <strong>🔧 ISTP Energy</strong><br/>
       <sub>I don't talk about what I'll build — I build it, then maybe mention it.</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/🌐-Networking-0078D7?style=flat-square&logo=cisco" /><br/>
+      <img src="https://skillicons.dev/icons?i=cisco&theme=dark" width="40"/>
       <strong>🌐 Networking Nerd</strong><br/>
       <sub>Packets, protocols, and everything between. Wireshark is relaxing, honestly.</sub>
     </td>
