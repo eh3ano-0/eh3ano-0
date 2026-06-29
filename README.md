@@ -90,10 +90,8 @@
 
 ### AI & Computer Vision
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,numpy&theme=dark&perline=6" />
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </div>
 
@@ -161,12 +159,12 @@
   </tr>
   <tr>
     <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40"/>
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40"/><br/>
       <strong>🔧 ISTP Energy</strong><br/>
       <sub>I don't talk about what I'll build — I build it, then maybe mention it.</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=cisco&theme=dark" width="40"/>
+      <img src="https://skillicons.dev/icons?i=cisco&theme=dark" width="40"/><br/>
       <strong>🌐 Networking Nerd</strong><br/>
       <sub>Packets, protocols, and everything between. Wireshark is relaxing, honestly.</sub>
     </td>
