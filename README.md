@@ -87,6 +87,17 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,arch,postman,vim,vscode,qt,nginx,npm,neovim,figma,arduino,stackoverflow&theme=dark&perline=6" />
 </a>
+<br/>
+<img src="https://custom-icon-badges.demolab.com/badge/Canva-00C4CC.svg?style=flat-square&logo=canva&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Gimp-5C5543?style=flat-square&logo=gimp&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B" />
+&nbsp;
+<img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
+
 
 ### AI & Computer Vision
 <a href="https://skillicons.dev">
