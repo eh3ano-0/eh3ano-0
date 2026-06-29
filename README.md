@@ -70,12 +70,12 @@
 
 ### Backend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,flask,laravel&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel,wordpress&theme=dark&perline=6" />
 </a>
 
 ### Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue&theme=dark&perline=6" />
 </a>
 
 ### Databases
@@ -85,7 +85,7 @@
 
 ### DevOps & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,arch&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,arch,postman,vim,vscode&theme=dark&perline=6" />
 </a>
 
 ### AI & Computer Vision
@@ -164,7 +164,7 @@
       <sub>I don't talk about what I'll build — I build it, then maybe mention it.</sub>
     </td>
     <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=cisco&theme=dark" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=redhat&theme=dark" width="40"/><br/>
       <strong>🌐 Networking Nerd</strong><br/>
       <sub>Packets, protocols, and everything between. Wireshark is relaxing, honestly.</sub>
     </td>
