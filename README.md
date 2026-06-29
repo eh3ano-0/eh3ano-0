@@ -94,6 +94,10 @@
 </a>
 <br/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white" />
 </div>
 
 ---
